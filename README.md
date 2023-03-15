@@ -1,8 +1,9 @@
-## I'm Victor
+## Oe, me chamo Victor
  <div>
   <a href="https://github.com/Vict0r40">
 <!--   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vict0r40&layout=compact&langs_count=7&theme=dracula"/> -->
-   <h4 font-size="0.1" >Aprendi muita coisa e so sei que tudo ainda não faz o menor sentido.🎈</h4>
+   <h4 font-size="0.1" >Focado em aprender.🎈</h4>
+   <h4 font-size="0.1" >Determinado a evoluir.🎈</h4>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Victor-Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -15,5 +16,5 @@
  
 <div>
   <a href="https://www.instagram.com/nevesfg/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/vSYhg7eqZu" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">  
+ <a href="https://discord.gg/JZ2Yujx3Xj" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">  
 </div>
