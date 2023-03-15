@@ -1,7 +1,7 @@
 ## Oe, me chamo Victor
  <div>
   <a href="https://github.com/nevesfg">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevesfg&layout=compact&langs_count=7&theme=dracula"/>
+<!--   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevesfg&layout=compact&langs_count=7&theme=dracula"/> -->
    Focado em aprender.🎈
    Determinado a evoluir.🎈
 </div>
