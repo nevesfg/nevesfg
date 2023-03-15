@@ -6,7 +6,8 @@
    <a href="https://discord.gg/JZ2Yujx3Xj" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">  
   </div>
   
-  Focado em aprender.🎈\nDeterminado a evoluir.🎈
+  Focado em aprender.🎈
+  Determinado a evoluir.🎈
    
 ## Tecnologias
 <div style="display: inline_block"><br>
