@@ -1,44 +1,53 @@
-## Oe, me chamo Victor Neves
-<!--   <a href="https://github.com/nevesfg"> -->
-<!--   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevesfg&layout=compact&langs_count=7&theme=dracula"/> -->
-  
-  - FrontEnd Web Developer🎈
-  - Focado em aprender🎈
-  - Determinado a evoluir🎈
-  - Cursando Análise e Desenvolvimento de Sistemas - Instituto Federal Baiano - Campus Guanambi🎈
+## 👋🏼 Oee, welcome to my profile 🤣
 
-<div>
-  <a href="https://www.linkedin.com/in/nevesfg" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://www.instagram.com/nevesfg/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://discord.gg/JZ2Yujx3Xj" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">  
-  </div>
+Sou Victor Neves, um desenvolvedor de software apaixonado e entusiasta da tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal Baiano - Campus Guanambi🎈.
+
+# ☕ Sobre
+
+Sou desenvolvedor de software, atualmente expandindo meus conhecimentos e focando como desenvolvedor Front-End.
+
+Comecei a aprofundar mais meus conhecimentos e largar esse hobby, tornando-o completamente parte de minha vida profissional há 2 anos, quando ingressei na faculdade em 2021. No entanto, adotei a programação como hobby há mais de 6 anos (desde 2017). Comecei sendo bastante curioso sobre como funcionavam os plugins do famoso jogo "Minecraft", e foi lá que me apaixonei pela programação. Experimentei a área do Back-end, mas não consegui me sentir tão bem quanto me sinto quando estou desenvolvendo telas para a experiência dos usuários.
+
+Estou no último semestre de Análise e Desenvolvimento de Sistemas no Instituto Federal Baiano - Campus Guanambi.
+
+Sou bastante exigente e detalhista no que faço, então enquanto as coisas não ficam em ordem, eu não paro de insistir. Estou sempre atento às atualizações no mundo da tecnologia e sempre aberto ao aprendizado.
+
+Fora do ambiente profissional, sou completamente apaixonado pelo universo dos games. Essa atividade, por si só, aprimora bastante meu inglês e também ajuda a desenvolver minha criatividade de uma forma única.
+
+<img align="right" alt="Victor-yoda" width="150" src="https://cdn.discordapp.com/attachments/753422301982097468/1153858078530342982/cat-crazy-cat.gif">
+
+## 🌐 Redes Sociais 
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nevesfg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/laura-grassi)
+[![Discord](https://img.shields.io/badge/Discord-5865f2?logo=Discord&logoColor=white)](https://discord.gg/JZ2Yujx3Xj)
+    
+## ⌨️ Tecnologias
+
+![Victor-Js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Victor-HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Victor-CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Victor-MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Victor-Spring-boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+![Victor-Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Victor-GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Victor-Xampp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
   
-   
-## Tecnologias
-<div style="display: inline_block">
-  <img align="center" alt="Victor-Js" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Victor-JAVA" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="C" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="Victor-HTML" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="Victor-CSS" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="Victor-MySQL" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="GitHub" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-</div>
+## <img alt="Victor-gif" width="30" src="https://cdn.discordapp.com/attachments/753422301982097468/1153856865596358707/loading-gif.gif">  Estudando...
+
+![Victor-Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Victor-Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![Victor-React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Victor-Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Victor-MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+# 📊 GitHub Stats:
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=nevesfg&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nevesfg&theme=neon&hide_border=false"  width="400px" />
+
+![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=nevesfg&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   
-  ---
-  
-  - Em progresso...
-  
- <div style="display: inline_block">
-  <img align="center" alt="Python" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Django" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-  <img align="center" alt="React" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="MongoDB" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img align="center" alt="Firebase" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
- <div/>
-  
-  
-  <div style="display: inline_block">
-    <img align="right" alt="Victor-yoda" width="120" src="https://cdn.discordapp.com/attachments/699755747860545576/940938980432695296/kyu0on.png">
-  <div/>
 
