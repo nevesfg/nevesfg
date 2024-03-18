@@ -49,5 +49,7 @@ Fora do ambiente profissional, sou completamente apaixonado pelo universo dos ga
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nevesfg&theme=neon&hide_border=false"  width="400px" />
 
 ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=nevesfg&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnevesfg&count_bg=%2379C83D&title_bg=%23555555&icon=vlcmediaplayer.svg&icon_color=%23E7E7E7&title=Visitantes&edge_flat=false)](https://hits.seeyoufarm.com)
   
 
