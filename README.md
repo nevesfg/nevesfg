@@ -21,7 +21,6 @@ Fora do ambiente profissional, sou completamente apaixonado pelo universo dos ga
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nevesfg)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/laura-grassi)
 [![Discord](https://img.shields.io/badge/Discord-5865f2?logo=Discord&logoColor=white)](https://discord.gg/JZ2Yujx3Xj)
-![GitHub search hit counter](https://img.shields.io/github/search/nevesfg/nevesfg/Visitantes?style=for-the-badge)
 
     
 ## ⌨️ Tecnologias
