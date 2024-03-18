@@ -16,11 +16,16 @@ Fora do ambiente profissional, sou completamente apaixonado pelo universo dos ga
 
 <img align="right" alt="Victor-yoda" width="150" src="https://cdn.discordapp.com/attachments/753422301982097468/1153858078530342982/cat-crazy-cat.gif">
 
-## 🌐 Redes Sociais 
+## 🌐 Contato ⭣
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nevesfg)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/laura-grassi)
 [![Discord](https://img.shields.io/badge/Discord-5865f2?logo=Discord&logoColor=white)](https://discord.gg/JZ2Yujx3Xj)
+
+
+## ☻ Views
+
+[![Hits](https://hits.sh/github.com/nevesfg.svg?style=for-the-badge&label=Profile%20Views&color=002dff&labelColor=000000&logo=github)](https://hits.sh/github.com/nevesfg/)
 
     
 ## ⌨️ Tecnologias
@@ -36,7 +41,7 @@ Fora do ambiente profissional, sou completamente apaixonado pelo universo dos ga
 ![Victor-GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Victor-Xampp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
   
-## <img alt="Victor-gif" width="30" src="https://cdn.discordapp.com/attachments/753422301982097468/1153856865596358707/loading-gif.gif">  Estudando...
+## ⏳ Estudando...
 
 ![Victor-Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Victor-Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
