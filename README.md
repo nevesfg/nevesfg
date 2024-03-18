@@ -1,4 +1,4 @@
-## 👋🏼 Oee, welcome to my profile 🤣
+## 👋🏼 Olá, bem vindo ao meu perfil!
 
 Sou Victor Neves, um desenvolvedor de software apaixonado e entusiasta da tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal Baiano - Campus Guanambi🎈.
 
