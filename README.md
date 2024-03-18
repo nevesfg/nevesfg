@@ -6,7 +6,7 @@ Sou Victor Neves, um desenvolvedor de software apaixonado e entusiasta da tecnol
 
 Sou desenvolvedor de software, atualmente expandindo meus conhecimentos e focando como desenvolvedor Front-End.
 
-Comecei a aprofundar mais meus conhecimentos e largar esse hobby, tornando-o completamente parte de minha vida profissional há 2 anos, quando ingressei na faculdade em 2021. No entanto, adotei a programação como hobby há mais de 6 anos (desde 2017). Comecei sendo bastante curioso sobre como funcionavam os plugins do famoso jogo "Minecraft", e foi lá que me apaixonei pela programação. Experimentei a área do Back-end, mas não consegui me sentir tão bem quanto me sinto quando estou desenvolvendo telas para a experiência dos usuários.
+Comecei a aprofundar mais meus conhecimentos e largar esse hobby, tornando-o completamente parte de minha vida profissional há 3 anos, quando ingressei na faculdade em 2021. No entanto, adotei a programação como hobby há mais de 7 anos (desde 2017). Comecei sendo bastante curioso sobre como funcionavam os plugins do famoso jogo "Minecraft", e foi lá que me apaixonei pela programação. Experimentei a área do Back-end, mas não consegui me sentir tão bem quanto me sinto quando estou desenvolvendo telas para a experiência dos usuários.
 
 Estou no último semestre de Análise e Desenvolvimento de Sistemas no Instituto Federal Baiano - Campus Guanambi.
 
