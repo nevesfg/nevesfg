@@ -57,4 +57,4 @@ Fora do ambiente profissional, sou completamente apaixonado pelo universo dos ga
 
 ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=nevesfg&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   
-
+[![](https://visitcount.itsvg.in/api?id=nevesfg&icon=6&color=4)](https://visitcount.itsvg.in)
