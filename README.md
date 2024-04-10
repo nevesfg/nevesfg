@@ -28,7 +28,7 @@ Fora do ambiente profissional, sou completamente apaixonado pelo universo dos ga
 [![Hits](https://hits.sh/github.com/nevesfg.svg?style=for-the-badge&label=Profile%20Views&color=002dff&labelColor=000000&logo=github)](https://hits.sh/github.com/nevesfg/)
 
     
-## ⌨️ Tecnologias
+## ⌨️ My Stack
 
 ![Victor-Js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Victor-VueJS](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -44,7 +44,7 @@ Fora do ambiente profissional, sou completamente apaixonado pelo universo dos ga
 ![Victor-GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Victor-Xampp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
   
-## ⏳ Estudando...
+## ⏳...
 
 ![Victor-React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Victor-Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -56,5 +56,3 @@ Fora do ambiente profissional, sou completamente apaixonado pelo universo dos ga
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nevesfg&theme=neon&hide_border=false"  width="400px" />
 
 ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=nevesfg&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-  
-[![](https://visitcount.itsvg.in/api?id=nevesfg&icon=6&color=4)](https://visitcount.itsvg.in)
