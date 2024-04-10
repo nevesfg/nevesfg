@@ -16,7 +16,7 @@ Fora do ambiente profissional, sou completamente apaixonado pelo universo dos ga
 
 <img align="right" alt="Victor-yoda" width="150" src="https://cdn.discordapp.com/attachments/753422301982097468/1153858078530342982/cat-crazy-cat.gif">
 
-## 🌐 Contato ⭣
+## 📞📧 Contato ⭣
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nevesfg)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/laura-grassi)
