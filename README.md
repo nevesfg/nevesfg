@@ -10,7 +10,7 @@ Comecei a aprofundar mais meus conhecimentos e largar esse hobby, tornando-o com
 
 Estou no último semestre de Análise e Desenvolvimento de Sistemas no Instituto Federal Baiano - Campus Guanambi.
 
-Sou bastante exigente e detalhista no que faço, então enquanto as coisas não ficam em ordem, eu não paro de insistir. Estou sempre atento às atualizações no mundo da tecnologia e sempre aberto ao aprendizado.
+Estou sempre atento às atualizações no mundo da tecnologia e sempre aberto ao aprendizado.
 
 Fora do ambiente profissional, sou completamente apaixonado pelo universo dos games. Essa atividade, por si só, aprimora bastante meu inglês e também ajuda a desenvolver minha criatividade de uma forma única.
 
