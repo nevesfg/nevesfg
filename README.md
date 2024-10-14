@@ -1,18 +1,10 @@
-## 👋🏼 Olá, bem vindo ao meu perfil!
+# ☕ Olá, bem vindo ao meu perfil!
 
-Sou Victor Neves, um desenvolvedor de software apaixonado e entusiasta da tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal Baiano - Campus Guanambi🎈.
+Sou Victor, desenvolvedor de software com foco em Front-End e no último semestre de Análise e Desenvolvimento de Sistemas no IF Baiano - Campus Guanambi. Transformei minha paixão pela tecnologia em uma carreira, após mais de 8 anos de experiência prática e 3 anos de estudos acadêmicos.
 
-# ☕ Sobre
+Possuo habilidades em backend com Node.js, Django Rest Framework e Java, e no frontend, atuo com HTML5, CSS3, Sass, Vue.js, React.js, JavaScript, Django e Spring Boot. Além do trabalho com tecnologia, sou entusiasta do universo dos games, que aprimora meu inglês e minha criatividade.
 
-Sou desenvolvedor de software, atualmente expandindo meus conhecimentos e focando como desenvolvedor Front-End.
-
-Comecei a aprofundar mais meus conhecimentos e largar esse hobby, tornando-o completamente parte de minha vida profissional há 3 anos, quando ingressei na faculdade em 2021. No entanto, adotei a programação como hobby há mais de 7 anos (desde 2017). Comecei sendo bastante curioso sobre como funcionavam os plugins do famoso jogo "Minecraft", e foi lá que me apaixonei pela programação. Experimentei a área do Back-end, mas não consegui me sentir tão bem quanto me sinto quando estou desenvolvendo telas para a experiência dos usuários.
-
-Estou no último semestre de Análise e Desenvolvimento de Sistemas no Instituto Federal Baiano - Campus Guanambi.
-
-Estou sempre atento às atualizações no mundo da tecnologia e sempre aberto ao aprendizado.
-
-Fora do ambiente profissional, sou completamente apaixonado pelo universo dos games. Essa atividade, por si só, aprimora bastante meu inglês e também ajuda a desenvolver minha criatividade de uma forma única.
+Sempre atento às novas tendências e aberto ao aprendizado contínuo.
 
 <img align="right" alt="Victor-yoda" width="150" src="https://cdn.discordapp.com/attachments/753422301982097468/1153858078530342982/cat-crazy-cat.gif">
 
@@ -21,11 +13,6 @@ Fora do ambiente profissional, sou completamente apaixonado pelo universo dos ga
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nevesfg)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/laura-grassi)
 [![Discord](https://img.shields.io/badge/Discord-5865f2?logo=Discord&logoColor=white)](https://discord.gg/JZ2Yujx3Xj)
-
-
-## ☻ Views
-
-[![Hits](https://hits.sh/github.com/nevesfg.svg?style=for-the-badge&label=Profile%20Views&color=002dff&labelColor=000000&logo=github)](https://hits.sh/github.com/nevesfg/)
 
     
 ## ⌨️ My Stack
@@ -49,6 +36,11 @@ Fora do ambiente profissional, sou completamente apaixonado pelo universo dos ga
 ![Victor-React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Victor-Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Victor-MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+## ☻ Views
+
+[![Hits](https://hits.sh/github.com/nevesfg.svg?style=for-the-badge&label=Profile%20Views&color=002dff&labelColor=000000&logo=github)](https://hits.sh/github.com/nevesfg/)
 
 
 # 📊 GitHub Stats:
