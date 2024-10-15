@@ -2,7 +2,7 @@
 
 Olá, sou Victor, desenvolvedor de software com foco em Front-End e no último semestre de Análise e Desenvolvimento de Sistemas no IF Baiano - Campus Guanambi. Transformei minha paixão pela tecnologia em uma carreira após mais de 3 anos de estudos acadêmicos. Antes disso, passei mais de 6 anos explorando a programação como hobby, o que me proporcionou uma base prática sólida e despertou meu interesse por desenvolvimento de software.
 
-Possuo habilidades em backend com Node.js, Django Rest Framework e Java, e no frontend, atuo com HTML5, CSS3, Sass, Vue.js, React.js, JavaScript, Django e Spring Boot. Além do trabalho com tecnologia, sou entusiasta do universo dos games, que aprimora meu inglês e minha criatividade.
+Possuo habilidades em backend com Node.js, Mysql, Django Rest Framework e Java, e no frontend, atuo com HTML5, CSS3, Sass, Vue.js, React.js, JavaScript, Django e Spring Boot. Além do trabalho com tecnologia, sou entusiasta do universo dos games, que aprimora meu inglês e minha criatividade.
 
 Sempre atento às novas tendências e aberto ao aprendizado contínuo.
 
