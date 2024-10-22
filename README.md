@@ -37,6 +37,7 @@ Sempre atento às novas tendências e aberto ao aprendizado contínuo.
 ![Victor-Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Victor-MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+[![Discord Presence](https://lanyard.kyrie25.dev/api/625828665791348758)](https://discord.com/users/625828665791348758)
 
 ## ☻ Views
 
