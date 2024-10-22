@@ -1,10 +1,8 @@
 # ☕ Olá, bem vindo ao meu perfil!
 
-Olá, sou Victor, desenvolvedor de software com foco em Front-End e no último semestre de Análise e Desenvolvimento de Sistemas no IF Baiano - Campus Guanambi. Transformei minha paixão pela tecnologia em uma carreira após mais de 3 anos de estudos acadêmicos. Antes disso, passei mais de 6 anos explorando a programação como hobby, o que me proporcionou uma base prática sólida e despertou meu interesse por desenvolvimento de software.
-
-Possuo habilidades em backend com Node.js, Mysql, Django Rest Framework e Java, e no frontend, atuo com HTML5, CSS3, Sass, Vue.js, React.js, JavaScript, Django e Spring Boot. Além do trabalho com tecnologia, sou entusiasta do universo dos games, que aprimora meu inglês e minha criatividade.
-
-Sempre atento às novas tendências e aberto ao aprendizado contínuo.
+- 📚 Olá, sou Victor, desenvolvedor Front-End e estou no último semestre de Análise e Desenvolvimento de Sistemas. 
+- 💻 Minha paixão por tecnologia se reflete na busca constante por novas soluções e aprimoramento contínuo. 
+- 🎮 Entusiasta de games, que contribuem para minha criatividade e pensamento inovador, estou sempre atento às tendências que impulsionam a evolução da tecnológia.
 
 <img align="right" alt="Victor-yoda" width="150" src="https://cdn.discordapp.com/attachments/753422301982097468/1153858078530342982/cat-crazy-cat.gif">
 
