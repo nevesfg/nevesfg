@@ -17,7 +17,7 @@
 ## ⌨️ My Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,vue,html,css,c,css,react,spring,py,django,bootstrap,github,mysql,mongodb,discordjs" />
+    <img src="https://skillicons.dev/icons?i=js,vue,html,css,c,react,spring,py,django,bootstrap,github,mysql,mongodb,discordjs" />
   </a>
 </p>
 
