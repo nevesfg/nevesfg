@@ -23,15 +23,25 @@
 
 ## ☻ Discord Profile
 
-[![Discord Presence](https://lanyard.kyrie25.dev/api/625828665791348758)](https://discord.com/users/625828665791348758)
+<p align="center">
+  <a href="https://discord.com/users/625828665791348758">
+    <img src="https://lanyard.kyrie25.dev/api/625828665791348758" />
+  </a>
+</p>
 
 ## ☻ Views
 
-[![Hits](https://hits.sh/github.com/nevesfg.svg?style=for-the-badge&label=Profile%20Views&color=002dff&labelColor=000000&logo=github)](https://hits.sh/github.com/nevesfg/)
+<p align="center">
+  <a href="https://hits.sh/github.com/nevesfg/">
+    <img src="https://hits.sh/github.com/nevesfg.svg?style=for-the-badge&label=Profile%20Views&color=002dff&labelColor=000000&logo=github" />
+  </a>
+</p>
 
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=nevesfg&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nevesfg&theme=neon&hide_border=false"  width="400px" />
-
-![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=nevesfg&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=nevesfg&theme=neon&hide_border=false&include_all_commits=false&count_private=false" width="400px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nevesfg&theme=neon&hide_border=false" width="420px" />
+  
+  <img src="https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=nevesfg&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="400px" />
+</div>
